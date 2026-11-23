@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Generative_Chat/Generative_Chat.csproj" />
+  <Project Path="UsingTools/UsingTools.csproj" />
+</Solution>
