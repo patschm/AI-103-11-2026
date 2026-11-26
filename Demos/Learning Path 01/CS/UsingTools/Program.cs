@@ -126,7 +126,8 @@ internal class Program
                 foreach (FunctionCallResponseItem call in response.OutputItems.OfType<FunctionCallResponseItem>())
                 {
                     Console.WriteLine($"(model called {call.FunctionName})");
-                    options.InputItems.Add(ResponseItem.CreateFunctionCallOutputItem(call.CallId, GetTime()));
+                    var curtime = GetTime();
+                    options.InputItems.Add(ResponseItem.CreateFunctionCallOutputItem(call.CallId, curtime));
                 }
                 response = responsesClient.CreateResponse(options);
             }

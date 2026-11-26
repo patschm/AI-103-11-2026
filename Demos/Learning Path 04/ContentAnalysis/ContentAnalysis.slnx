@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Demo_01_GenAIVision/Demo_01_GenAIVision.csproj" />
+  <Project Path="Demo_02_ImageGeneration/Demo_02_ImageGeneration.csproj" />
+  <Project Path="Demo_03_VideoGeneration/Demo_03_VideoGeneration.csproj" />
+  <Project Path="Demo_04_ContentAnalysis/Demo_04_ContentAnalysis.csproj" />
+</Solution>

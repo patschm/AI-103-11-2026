@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="AgentDemo/AgentDemo.csproj" />
+  <Project Path="Agents/Agents.csproj" />
+  <Project Path="ConnectionInfo/ConnectionInfo.csproj" />
+  <Project Path="DevToolsServer/DevToolsServer.csproj" />
+  <Project Path="FoundryWorkflowDemo/FoundryWorkflowDemo.csproj" />
+  <Project Path="InventoryServer/InventoryServer.csproj" />
+  <Project Path="OrchestrationDemo/OrchestrationDemo.csproj" />
+  <Project Path="WorkflowDemo/WorkflowDemo.csproj" />
+</Solution>

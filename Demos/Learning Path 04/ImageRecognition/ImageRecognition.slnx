@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Demo_01_ContentUnderstandingApi/Demo_01_ContentUnderstandingApi.csproj" />
+  <Project Path="Demo_02_DocumentIntelligence/Demo_02_DocumentIntelligence.csproj" />
+  <Project Path="Demo_03_KnowledgeMining/Demo_03_KnowledgeMining.csproj" />
+</Solution>
